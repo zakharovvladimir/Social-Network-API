@@ -100,5 +100,5 @@ GET /api/v1/follow/
 - Pagination:
 
 ```r
-GET /api/v1/posts/?limit=5&offset=0
+GET /api/v1/posts/?limit=10&offset=0
 ```
