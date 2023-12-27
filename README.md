@@ -1,8 +1,8 @@
-# API for Yatube project
+# API for Social Network
 
 ## Description
 
-API for Yatube is a social network API project with opportunities of posting, commenting and following.
+API for Social Network is a social network API project with opportunities of posting, commenting and following.
 
 ## Techs
 
@@ -102,3 +102,7 @@ GET /api/v1/follow/
 ```r
 GET /api/v1/posts/?limit=10&offset=0
 ```
+
+### Author
+
+Vladimir Zakharov // vladimir.zakharov.s@yandex.ru
