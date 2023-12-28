@@ -106,3 +106,6 @@ GET /api/v1/posts/?limit=10&offset=0
 ### Author
 
 Vladimir Zakharov // vladimir.zakharov.s@yandex.ru
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
